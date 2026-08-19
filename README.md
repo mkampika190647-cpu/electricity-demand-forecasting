@@ -1,6 +1,6 @@
 # Electricity Demand Forecasting in Southern Thailand
 
-**Time Series Forecasting Project | Electricity Demand · Forecasting · Excel · Statistical Analysis**
+**Time Series Forecasting Project | Electricity Demand · Forecasting ·  Minitab ·Excel · Statistical Analysis**
 
 ## Project Overview
 
@@ -92,9 +92,10 @@
 - Statistical Interpretation
 
 ## Tools & Technologies
-
 - Microsoft Excel
+- Minitab
 - Statistical Analysis
+- Time Series Analysis
 - Time Series Forecasting
 - Data Visualization
 
