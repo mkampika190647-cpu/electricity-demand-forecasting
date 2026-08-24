@@ -172,8 +172,8 @@ electricity-demand-forecasting/
 
 
 
-## Project Type
 
+## Project Type
 **Academic Team Project — Time Series Analysis & Forecasting**
 
 โปรเจกต์นี้จัดทำขึ้นเพื่อประยุกต์ใช้การวิเคราะห์อนุกรมเวลากับข้อมูลความต้องการใช้ไฟฟ้า ตั้งแต่การเตรียมและสำรวจข้อมูล การสร้างและเปรียบเทียบแบบจำลอง ไปจนถึงการประเมินผลด้วย Training Set และ Test Set
