@@ -170,6 +170,8 @@ electricity-demand-forecasting/
 ├── README.md
 └── Electricity-Demand-Forecasting-Southern-Thailand.pdf
 
+
+
 ## Project Type
 
 **Academic Team Project — Time Series Analysis & Forecasting**
